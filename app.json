@@ -1,6 +1,6 @@
 {
   "name": "Loan Application DApp",
   "description": "A Loan Application Powered by Blockchain",
-  "repository": "https://github.com/senthilkumar-rk/test.git",
+  "repository": "https://github.com/senthilkumar-rk/test",
   "keywords": ["node", "express", "html"]
 }
